@@ -1,0 +1,24 @@
+{
+  "post": [
+    {
+      "title": "huhuh",
+      "content": "asdhdggdsfad111",
+      "myDate": "2023-11-20T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "myDate": "2023-11-09T22:00:00.000Z",
+      "content": "asdasd",
+      "title": "adsfghgsdhgf",
+      "id": 3
+    },
+    {
+      "myDate": "2023-11-08T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "myDate": "2024-11-08T22:00:00.000Z",
+      "id": 5
+    }
+  ]
+}
